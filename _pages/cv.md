@@ -32,7 +32,7 @@ Work experience
 
 * 6/2023-present, Postdoctoral Fellow 
   * The Hong Kong Polytechnic University
-  * Department of Civil and Environmental Engineering (CEE Departmental Postdoctoral Fellowship Scheme), .
+  * Department of Civil and Environmental Engineering (CEE Departmental Postdoctoral Fellowship Scheme).
 
 Program Experience
 ======
