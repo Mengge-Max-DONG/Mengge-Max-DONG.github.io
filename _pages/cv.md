@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 PDF: <a href="/English version CV.pdf">English version CV</a>
 
 PDF: <a href="/Chinese version CV.pdf">Chinese version CV</a>
 
-{% include base_path %}
 
 Education
 ======
