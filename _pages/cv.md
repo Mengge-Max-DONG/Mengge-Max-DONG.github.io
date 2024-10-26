@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-PDF:<a href="/英文版本简历  20230710.pdf">CV</a>
-PDF:<a href="/董梦格个人简历 中文 - 202408.pdf">CV</a>
+PDF:<a href="/英文版本简历  20230710.pdf">English version CV</a>
+PDF:<a href="/董梦格个人简历 中文 - 202408.pdf">Chinese version CV</a>
 
 {% include base_path %}
 
