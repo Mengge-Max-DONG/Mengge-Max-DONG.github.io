@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mengge (Max) DONG 董梦格"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
