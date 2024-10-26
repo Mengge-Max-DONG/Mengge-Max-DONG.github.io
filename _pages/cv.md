@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-CV <a href="/English version CV.pdf">English version CV</a>
 
-CV <a href="/Chinese version CV.pdf">Chinese version CV</a>
+<a href="/EnglishCV.pdf">English version CV</a>
+
+<a href="/ChineseCV.pdf">Chinese version CV</a>
 
 
 Education
