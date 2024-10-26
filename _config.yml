@@ -24,11 +24,11 @@ author:
   avatar           : "Mengge Max DONG.png"
   name             : "董梦格"
   pronouns         : # example: "he/his"  
-  bio              : "行者常至，为者常成"
+  bio              : "为者常成，行者常至(Those who work will succeed, and those who walk will arrive at their destination)"
   location         : "HONG KONG"
   employer         : "The Hong Kong Polytechnic University (PolyU)"
   uri              : "http://mate100.top/"
-  email            : "mg_dong@163.com" 
+  email            : "mg_dong@163.com; mgdong229@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # https://www.linkedin.com/feed/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : # https://www.zhihu.com/people/dmgdong
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
