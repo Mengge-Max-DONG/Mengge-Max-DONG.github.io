@@ -14,7 +14,7 @@ He is passionate about exploring topics in AI, Blockchain, Data Science and Supp
 He also created the database for [CBER](https://www.cber-forum.org/literature) and held the CUHK-SZ School of Data Science Undergraduate Seminar. Besides academia, he was an anaylst at [Nothing Research Venture Capital](https://www.nothing-research.com/) and [US Arctic Research Commission](https://www.arctic.gov/).  
 
 Book a Chat With Him: [Sunday Service](https://calendly.com/leonleng0730/11)<br>
-[Email](mailto:leonleng0730@gmail.com): leonleng0730@gmail.com
+[Email](mg_dong@163.com): mg_dong@163.com
 
 <section id="news-section">
   <h2>Latest News</h2>
