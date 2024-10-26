@@ -22,11 +22,11 @@ repository               : "Mengge-Max-DONG/Mengge-Max-DONG.github.io"
 author:
   # Biographic information
   avatar           : "Mengge Max DONG.png"
-  name             : "Mengge Max DONG"
+  name             : "董梦格"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "行者常至，为者常成"  "Never say never" 
   location         : "HONG KONG"
-  employer         : "POLY University"
+  employer         : "The Hong Kong Polytechnic University (PolyU)"
   uri              : "http://mate100.top/"
   email            : "mg_dong@163.com" 
 
@@ -36,7 +36,6 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-8281-163X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Mengge-Dong"
 
   # Repositories and software development
