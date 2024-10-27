@@ -23,20 +23,18 @@ About
 
 Research Background & Interests
 ======
-* Machine Learning (Tree-Based Models, Ensemble Models)
-* Deep Learning (Neural Networks, Sequence Models, Transformers, Generative Networks)
-* Optimization (Constrained/Unconstrained Optimization, Multi-Objective Optimization, Gradient Descent Variants)
-* Online Learning (Fine-tuning, Transfer Learning, Online Convex Optimization)
-* Time Series Analysis and Forecasting (Univariate & Multivariate Forecasting, State Space Models, Anomaly Detection)
-* Distributed/Federated Learning
+* Resources utilization
+* Solid waste treatment 
+* Nuclear attenuation mechanism
+
 
 <section id="news-section">
   <h2>Latest News</h2>
   <div class="news-container">
-    <div class="news-item">News item 1: Latest updates on product launches.</div>
-    <div class="news-item">News item 2: Company expands to new markets.</div>
-    <div class="news-item">News item 3: New partnership announced.</div>
-    <div class="news-item">News item 4: Upcoming events and webinars.</div>
+    <div class="news-item">News item 1: New paper published in RCR>
+    <div class="news-item">News item 2: Postdoc in POLYU>
+    <div class="news-item">News item 3: >
+    <div class="news-item">News item 4: >
     <!-- Add more news items here -->
   </div>
 </section>
