@@ -4,7 +4,7 @@ collection: Journal of hazardous materials
 category: manuscripts
 permalink: /publication/2018-A novel method of utilization of hot dip galvanizing slag using the heat waste from itself for protection from radiation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018
+date: '2018'
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
