@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ site.baseurl }}/files/EnglishCV.pdf" type="application/pdf" width="600px" height="500px"/>
+
+<embed src="{{ site.baseurl }}/files/ChineseCV.pdf" type="application/pdf" width="600px" height="500px"/>
 
 <a href="/EnglishCV.pdf">EnglishCV</a>
 
