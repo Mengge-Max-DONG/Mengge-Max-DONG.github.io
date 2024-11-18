@@ -15,6 +15,7 @@ Dr. Dong has been invited to serve as a reviewer for multiple international SCI 
 Dr. Dong has been included in Stanford University's list of the "Top 2% of Scientists Worldwide" for five consecutive years (2020-2024), with 3,694 citations on Google Scholar and an H-index of 36.
 In recent years, Dr. Dong has delivered 10 academic presentations at high-level national and international conferences, including one invited session report at a major national conference, two invited reports at major international conferences, and received the Excellent Presentation Award at the Annual Academic Meeting of the Chinese Society of Radiation Protection.
 [Email](mg_dong@163.com): mg_dong@163.com; mgdong229@gmail.com
+
 董梦格，博士（博士后），硕士生导师，主要从事矿冶资源的资源环境属性及效应，及其非常规高值利用、碳减排等领域的基础和应用基础的研究工作。
 主持/参与国家重点研发计划、国家自然科学基金以及中央高校基本科研业务费等在内的科研项目17项，以第一作者/通讯作者在Journal of Hazardous Materials、Resources, Conservation and Recycling、Journal of Cleaner Production、Composites Part B、Radiation Physics and Chemistry、Progress in Nuclear energy、Nuclear Science and Techniques等期刊发表SCI论文21篇（含ESI热点论文2篇、ESI高被引论文4篇）、EI论文3篇。获2021年辽宁省优秀博士学位论文；获2022年冶金科学技术二等奖1项；获2021年东北大学优秀博士学位论文；获授权国家（国防）发明专利4项。
 受邀担任Progress in Materials Science在内的多个国际SCI期刊审稿人，获SCI期刊Nuclear Engineering and Technology 2021-2023年杰出审稿人。
